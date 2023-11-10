@@ -1,16 +1,14 @@
 ### Hi there 👋
+I'm Manu and this is my repository where I upload all my personal random stuff. Currently working as a Full Stack Web Developer. Sometimes I code videogames in my free time, as well as other random things, like Discord bots.
 
-<!--
-**ManuErCaximba/ManuErCaximba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Tech Stack⚡
+Spring Boot (Java)
+Angular, Ionic (Typescript)
+NodeJS (Javascript)
+Godot (GDScript, C#)
+Unreal Engine 5 (UE Blueprints, C++)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Learning 🌱
+Godot (GDScript, C#)
+Unreal Engine 5 (UE Blueprints, C++)
+Ilustration and Pixel Art
